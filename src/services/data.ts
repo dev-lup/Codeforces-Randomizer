@@ -38,5 +38,5 @@ export const getTags: () => Array<string> = (): Array<string> => {
   return tags;
 };
 
-export const minRating = 800;
-export const maxRating = 3500;
+export const minRating = 1100;
+export const maxRating = 2000;
